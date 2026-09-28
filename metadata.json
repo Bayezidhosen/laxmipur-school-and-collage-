@@ -1,0 +1,6 @@
+{
+  "name": "Laxmipur School and College",
+  "description": "Official website of Laxmipur School and College, Gaibandha, Bangladesh. Building Knowledge, Character and a Better Future.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
